@@ -10,20 +10,12 @@ Source: "Computer-Aided Design for Aerospace Engineers | Syllabus | Concourse" (
 
 Charles W Davidson College of Engineering · Aerospace Engineering
 Computer-Aided Design for Aerospace Engineers — AE 20
-Fall 2025, Section 01, In Person, 2 Unit(s), 08/20/2025 to 12/08/2025, Modified 08/20/2025
 
-Instructor: Robert Benzio
+Instructor: 
 - Email: 
 - Phone: 
 
 ## Course Information
-
-- Lecture Section 01: Tuesdays 3:00 - 3:50 pm, Room: E339
-- Lab Section 02: Tuesdays 4:30 - 7:20 pm, Room: E407
-- Lab Section 03: Tuesdays 7:30 - 10:20 pm, Room: E407
-- Lecture Section 04: Thursdays 3:00 - 3:50 pm, Room: E339
-- Lab Section 05: Thursdays 4:30 - 7:20 pm, Room: E407
-- Lab Section 06: Thursdays 7:30 - 10:20 pm, Room: E407
 
 ## Course Description and Requisites
 
