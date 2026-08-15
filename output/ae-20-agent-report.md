@@ -1,6 +1,6 @@
 # AE 20 – Computer-Aided Design for Aerospace Engineers — Subject Report
 
-**Scope note:** Aligned to the actual Fall 2025/2026 SJSU syllabus (Instructor: Robert Benzio) and assigned textbook, not a generic CAD course.
+**Scope note:** Aligned to the actual Fall 2025/2026 SJSU syllabus (Instructor:) and assigned textbook, not a generic CAD course.
 
 ## 1. Subject Overview
 
@@ -79,7 +79,6 @@ Tied to the confirmed intended use: homework/lab support, concept explanation, a
 ## 7. Sources
 
 - AE 20 Fall 2025 Syllabus (Concourse), provided by user
-- AE20 Fall 2026 Welcome Letter (Prof. Robert Benzio), provided by user
 - [Print Reading for Industry, 12th Edition – Goodheart-Willcox](https://www.g-w.com/print-reading-for-industry-2026)
 - [Print Reading for Industry 12th Edition Write-In Text (sample front matter/TOC)](https://www.g-w.com/assets/files/pdf/sampchap/9798891188181_fm.pdf)
 - [First vs Third Angle – Orthographic Views | GD&T Basics](https://www.gdandtbasics.com/first-vs-third-angle-orthographic-views/)
